@@ -1,0 +1,36 @@
+﻿@model List<_PortfolioCore.Entities.Experience>
+
+@{
+    ViewData["Title"] = "ExperienceList";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h3> Experience List </h3>
+
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th> Title </th>
+        <th> Subtitle </th>
+        <th> Description </th>
+        <th> Date </th>
+        <th> Update </th>
+        <th> Delete </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ExperienceId</td>
+            <td>@item.Title</td>
+            <td>@item.SubTitle</td>
+            <td>@item.Description</td>
+            <td>@item.ExperienceDate</td>
+            <td><a href="/Experience/UpdateExperience/@item.ExperienceId" class=" btn btn-outline-success"> Update </a></td>
+            <td><a href="/Experience/DeleteExperience/@item.ExperienceId" class=" btn btn-outline-danger"> Delete </a></td>
+
+
+        </tr>
+    }
+</table>
+<a href="/Experience/CreateExperience/" class="btn btn-outline-primary col-md-12"> New Experience Login </a>
+

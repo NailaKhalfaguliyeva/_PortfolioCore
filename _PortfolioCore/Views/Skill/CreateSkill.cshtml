@@ -1,0 +1,17 @@
+﻿@model Skill
+
+@{
+    ViewData["Title"] = "CreateSkill";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+<h2>Add New Skills Page</h2>
+
+<form method="post">
+    <label>Skill Title</label>
+    <input type="text" asp-for="SkillName" class="form-control" />
+    <br />
+    <label>Talent Value</label>
+    <input type="number" asp-for="SkillValue" class="form-control" />
+    <br />
+    <button class="btn btn-info">Add Skill</button>
+</form>
