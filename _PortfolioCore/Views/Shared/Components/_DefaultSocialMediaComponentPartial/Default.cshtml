@@ -1,0 +1,17 @@
+﻿@model List<SocialMedia>
+@{
+    Layout = null;
+}
+
+<ul class="social-icons">
+    @foreach (var item in Model)
+    {
+        <li>
+            <a href="@item.SocialMediaUrl" target="_blank" title="@item.SocialMediaName">
+                <i class="@item.SocialMediaIcon"></i>
+                <i class="@item.SocialMediaStatus"></i>
+                <span>@item.SocialMediaName</span>
+            </a>
+        </li>
+    }
+</ul>

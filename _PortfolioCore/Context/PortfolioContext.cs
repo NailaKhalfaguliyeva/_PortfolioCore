@@ -17,6 +17,7 @@ namespace _PortfolioCore.Context
         public DbSet<Skill> Skills { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Portfolio> Portfolios { get; set; }
+        public DbSet<SocialMedia> SocialMedias { get; set; }
 
     }
 }

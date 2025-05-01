@@ -258,3 +258,4 @@ C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\refint
 C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\_PortfolioCore.pdb
 C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\_PortfolioCore.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\ref\_PortfolioCore.dll
+C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\_PortfolioCore.sourcelink.json

@@ -1,0 +1,37 @@
+﻿@model SocialMedia
+
+@{
+    ViewData["Title"] = "CreateSocialMedia";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h1>Add New Social Media Page</h1>
+
+<br />
+
+<form method="post">
+
+    <input type="hidden" asp-for="SocialMediaId" />
+
+    <label>Title</label>
+    <input type="text" asp-for="SocialMediaName" class="form-control" style="border:1px solid gry;" />
+    <br />
+
+    <label>Name</label>
+    <input type="text" asp-for="SocialMediaName" class="form-control" style="border:1px solid gry;" />
+    <br />
+
+    <label>Url</label>
+    <input type="text" asp-for="SocialMediaUrl" class="form-control" style="border:1px solid grey;" />
+    <br />
+
+    <label>Icon</label>
+    <input type="text" asp-for="SocialMediaIcon" class="form-control" style="border:1px solid grey" />
+    <br />
+
+    <label>Status</label>
+    <input type="text" asp-for="SocialMediaStatus" class="form-control" style="border:1px solid grey" />
+    <br />
+
+    <button class="btn btn-outline-primary col-md-12">Save</button>
+</form>
