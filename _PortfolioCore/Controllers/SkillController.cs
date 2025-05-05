@@ -22,6 +22,10 @@ namespace _PortfolioCore.Controllers
         [HttpPost]
         public IActionResult CreateSkill(Skill skill)
         {
+            Random random = new Random();
+            skill.ReferenceNumber = random.Next(10, 21);  
+            skill.PortfolioNumber = random.Next(10, 21);  
+            skill.AbilityNumber = random.Next(10, 21);    
             context.Skills.Add(skill);
             context.SaveChanges();
             return RedirectToAction("SkillList");

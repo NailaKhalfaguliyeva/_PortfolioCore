@@ -5,23 +5,37 @@
 }
 <h2>Skill List</h2>
 
+
 <table class="table table-bordered">
     <tr>
         <th>#</th>
         <th>Skill Title</th>
-        <th>Talent Value</th>
+        <th>Skill Value</th>
+        <th>Portfolio Number</th>
+        <th>Reference Number</th>
+        <th>Ability Number</th>
         <th>Delete</th>
         <th>Update</th>
     </tr>
+
+    @{
+        int count = 1;
+    }
+
     @foreach (var item in Model)
     {
         <tr>
-            <td>@item.SkillId</td>
+            <td>@count</td>
             <td>@item.SkillName</td>
             <td>@item.SkillValue</td>
+            <td>@item.PortfolioNumber</td>
+            <td>@item.ReferenceNumber</td>
+            <td>@item.AbilityNumber</td>
             <td><a href="/Skill/DeleteSkill/@item.SkillId" class="btn btn-danger">Delete</a></td>
             <td><a href="/Skill/UpdateSkill/@item.SkillId" class="btn btn-success">Update</a></td>
         </tr>
+        count++;
     }
 </table>
-<a href="/Skill/CreateSkill/" class="btn btn-primary">New Talent Entry</a>
+
+<a href="/Skill/CreateSkill/" class="btn btn-primary">New Skill Entry</a>
