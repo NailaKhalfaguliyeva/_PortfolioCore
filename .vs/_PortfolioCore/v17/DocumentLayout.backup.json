@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\shared\\components\\_defaultskillcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\shared\\components\\_defaultskillcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\shared\\components\\_defaultskillcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\shared\\components\\_defaultskillcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,6 +73,14 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ExperienceController.cs",
@@ -82,18 +90,17 @@
               "RelativeToolTip": "_PortfolioCore\\Controllers\\ExperienceController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T19:56:02.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T19:56:02.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Default\\Index.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "_PortfolioCore\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAJ0AAAAAAAAAAAAAAJIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-05T19:00:54.38Z",
               "EditorCaption": ""
@@ -108,12 +115,11 @@
               "RelativeToolTip": "_PortfolioCore\\Views\\Shared\\Components\\_DefaultSocialMediaComponentPartial\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T18:56:20.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:56:20.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Shared\\Components\\_DefaultSkillComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Shared\\Components\\_DefaultSkillComponentPartial\\Default.cshtml",
@@ -121,8 +127,7 @@
               "RelativeToolTip": "_PortfolioCore\\Views\\Shared\\Components\\_DefaultSkillComponentPartial\\Default.cshtml",
               "ViewState": "AgIAACkAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T18:56:15.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:56:15.609Z"
             },
             {
               "$type": "Document",
@@ -134,8 +139,7 @@
               "RelativeToolTip": "_PortfolioCore\\ViewComponents\\_DefaultTestimonialComponentPartial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T18:53:18.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:53:18.43Z"
             },
             {
               "$type": "Document",
@@ -147,8 +151,7 @@
               "RelativeToolTip": "_PortfolioCore\\ViewComponents\\_DefaultSocialMediaComponentPartial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T18:53:14.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:53:14.007Z"
             },
             {
               "$type": "Document",
@@ -160,8 +163,7 @@
               "RelativeToolTip": "_PortfolioCore\\ViewComponents\\_DefaultSkillComponentPartial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T18:53:09.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:53:09.439Z"
             },
             {
               "$type": "Document",
@@ -173,8 +175,7 @@
               "RelativeToolTip": "_PortfolioCore\\Views\\Shared\\Components\\_DefaultSidebarComponentPartial\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T18:51:52.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:51:52.576Z"
             },
             {
               "$type": "Document",
@@ -186,8 +187,7 @@
               "RelativeToolTip": "_PortfolioCore\\Migrations\\20250505183329_mig8.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T18:33:29.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:33:29.775Z"
             },
             {
               "$type": "Document",
@@ -199,8 +199,7 @@
               "RelativeToolTip": "_PortfolioCore\\Entities\\Skill.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T18:29:03.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:29:03.2Z"
             },
             {
               "$type": "Document",
@@ -212,16 +211,7 @@
               "RelativeToolTip": "_PortfolioCore\\Views\\Skill\\UpdateSkill.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T17:49:16.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "WhenOpened": "2025-05-05T17:49:16.572Z"
             },
             {
               "$type": "Document",
@@ -233,8 +223,7 @@
               "RelativeToolTip": "_PortfolioCore\\Views\\Skill\\CreateSkill.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T17:34:30.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T17:34:30.356Z"
             },
             {
               "$type": "Document",
@@ -246,8 +235,7 @@
               "RelativeToolTip": "_PortfolioCore\\Views\\Skill\\SkillList.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T17:33:56.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T17:33:56.987Z"
             },
             {
               "$type": "Document",
@@ -259,8 +247,7 @@
               "RelativeToolTip": "_PortfolioCore\\Migrations\\20250505173117_mig8.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T17:31:17.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T17:31:17.417Z"
             },
             {
               "$type": "Document",
@@ -272,8 +259,7 @@
               "RelativeToolTip": "_PortfolioCore\\Controllers\\SkillController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T16:39:32.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T16:39:32.925Z"
             }
           ]
         }
