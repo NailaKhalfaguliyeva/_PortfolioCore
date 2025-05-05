@@ -8885,7 +8885,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:18:56 GMT"
+          "Value": "Sat, 03 May 2025 13:50:48 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8930,7 +8930,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:18:56 GMT"
+          "Value": "Sat, 03 May 2025 13:50:48 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9101,6 +9101,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/2024-03-25 at 6.16.39 PM.avfvcd41za.jpeg",
+      "AssetFile": "images/2024-03-25 at 6.16.39 PM.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1149434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FsKZXjIXlvgk2hE9BXoNaq+rwXqZM5javj8TxCpUsFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Mar 2024 14:39:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "avfvcd41za"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FsKZXjIXlvgk2hE9BXoNaq+rwXqZM5javj8TxCpUsFA="
+        },
+        {
+          "Name": "label",
+          "Value": "images/2024-03-25 at 6.16.39 PM.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/2024-03-25 at 6.16.39 PM.jpeg",
+      "AssetFile": "images/2024-03-25 at 6.16.39 PM.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1149434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FsKZXjIXlvgk2hE9BXoNaq+rwXqZM5javj8TxCpUsFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Mar 2024 14:39:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FsKZXjIXlvgk2hE9BXoNaq+rwXqZM5javj8TxCpUsFA="
         }
       ]
     },

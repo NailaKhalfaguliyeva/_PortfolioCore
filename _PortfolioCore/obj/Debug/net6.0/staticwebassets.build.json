@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6iLYxnmucm8CaBI0IYLFlkI9+TIaVf3KfyIxeMyigoE=",
+  "Hash": "oTEeM7pFuQXiKwCmtLvfqpiR4YLkP/gSBPFEwdUtKZI=",
   "Source": "_PortfolioCore",
   "BasePath": "_content/_PortfolioCore",
   "Mode": "Default",
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\images\\2024-03-25 at 6.16.39 PM.jpeg",
+      "SourceId": "_PortfolioCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\",
+      "BasePath": "_content/_PortfolioCore",
+      "RelativePath": "images/2024-03-25 at 6.16.39 PM#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "avfvcd41za",
+      "Integrity": "FsKZXjIXlvgk2hE9BXoNaq+rwXqZM5javj8TxCpUsFA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2024-03-25 at 6.16.39 PM.jpeg"
     },
     {
       "Identity": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\js\\site.js",
@@ -5753,7 +5774,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:18:56 GMT"
+          "Value": "Sat, 03 May 2025 13:50:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5790,7 +5811,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:18:56 GMT"
+          "Value": "Sat, 03 May 2025 13:50:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5835,7 +5856,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:18:56 GMT"
+          "Value": "Sat, 03 May 2025 13:50:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5880,7 +5901,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:18:56 GMT"
+          "Value": "Sat, 03 May 2025 13:50:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6055,6 +6076,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/2024-03-25 at 6.16.39 PM.avfvcd41za.jpeg",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\images\\2024-03-25 at 6.16.39 PM.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1149434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FsKZXjIXlvgk2hE9BXoNaq+rwXqZM5javj8TxCpUsFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Mar 2024 14:39:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "avfvcd41za"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2024-03-25 at 6.16.39 PM.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FsKZXjIXlvgk2hE9BXoNaq+rwXqZM5javj8TxCpUsFA="
+        }
+      ]
+    },
+    {
+      "Route": "images/2024-03-25 at 6.16.39 PM.jpeg",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\images\\2024-03-25 at 6.16.39 PM.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1149434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FsKZXjIXlvgk2hE9BXoNaq+rwXqZM5javj8TxCpUsFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Mar 2024 14:39:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FsKZXjIXlvgk2hE9BXoNaq+rwXqZM5javj8TxCpUsFA="
         }
       ]
     },

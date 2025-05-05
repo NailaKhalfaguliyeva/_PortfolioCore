@@ -239,6 +239,7 @@ C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\_Portf
 C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\_PortfolioCore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\_PortfolioCore.RazorAssemblyInfo.cache
 C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\_PortfolioCore.RazorAssemblyInfo.cs
+C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\_PortfolioCore.sourcelink.json
 C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\scopedcss\bundle\_PortfolioCore.styles.css
 C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\scopedcss\projectbundle\_PortfolioCore.bundle.scp.css
@@ -258,4 +259,3 @@ C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\refint
 C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\_PortfolioCore.pdb
 C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\_PortfolioCore.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\ref\_PortfolioCore.dll
-C:\Users\ASUS\source\repos\_PortfolioCore\_PortfolioCore\obj\Debug\net6.0\_PortfolioCore.sourcelink.json

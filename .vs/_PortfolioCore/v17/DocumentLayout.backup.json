@@ -7,56 +7,116 @@
       "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\shared\\components\\_defaultexperiencecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\shared\\components\\_defaultexperiencecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\viewcomponents\\_defaultexperiencecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\viewcomponents\\_defaultexperiencecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\socialmedia\\createsocialmedia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\socialmedia\\createsocialmedia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\controllers\\socialmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\controllers\\socialmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\socialmedia\\updatesocialmedia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\socialmedia\\updatesocialmedia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\socialmedia\\socialmedialist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\socialmedia\\socialmedialist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\context\\portfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\context\\portfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\about\\createabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\about\\createabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\viewcomponents\\_defaultaboutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\viewcomponents\\_defaultaboutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Migrations\\20250503185437_mig7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_PortfolioCore\\Migrations\\20250503185437_mig7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\shared\\components\\_defaultaboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\shared\\components\\_defaultaboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Migrations\\20250503184245_mig7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_PortfolioCore\\Migrations\\20250503184245_mig7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Migrations\\20250503184001_mig7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_PortfolioCore\\Migrations\\20250503184001_mig7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\about\\updateabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\about\\updateabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\shared\\components\\_defaultfeaturecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\shared\\components\\_defaultfeaturecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\shared\\components\\_defaultcategorycomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\shared\\components\\_defaultcategorycomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\shared\\components\\_defaultsocialmediacomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\shared\\components\\_defaultsocialmediacomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\migrations\\20250502054018_mig6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\migrations\\20250502054018_mig6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\experience\\updateexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\experience\\updateexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\portfolio\\createportfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\portfolio\\createportfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\about\\aboutlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\about\\aboutlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\experience\\createexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\experience\\createexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\shared\\components\\_defaultheadcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\shared\\components\\_defaultheadcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\shared\\components\\_defaultexperiencecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\shared\\components\\_defaultexperiencecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\controllers\\socialmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\controllers\\socialmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,46 +138,144 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250503185437_mig7.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Migrations\\20250503185437_mig7.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Migrations\\20250503185437_mig7.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Migrations\\20250503185437_mig7.cs",
+              "RelativeToolTip": "_PortfolioCore\\Migrations\\20250503185437_mig7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:54:37.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_DefaultExperienceComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\ViewComponents\\_DefaultExperienceComponentPartial.cs",
-              "RelativeDocumentMoniker": "_PortfolioCore\\ViewComponents\\_DefaultExperienceComponentPartial.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\ViewComponents\\_DefaultExperienceComponentPartial.cs",
-              "RelativeToolTip": "_PortfolioCore\\ViewComponents\\_DefaultExperienceComponentPartial.cs",
+              "Title": "CreateAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\About\\CreateAbout.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\About\\CreateAbout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\About\\CreateAbout.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\About\\CreateAbout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T18:48:30.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250503184245_mig7.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Migrations\\20250503184245_mig7.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Migrations\\20250503184245_mig7.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Migrations\\20250503184245_mig7.cs",
+              "RelativeToolTip": "_PortfolioCore\\Migrations\\20250503184245_mig7.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:42:45.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250503184001_mig7.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Migrations\\20250503184001_mig7.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Migrations\\20250503184001_mig7.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Migrations\\20250503184001_mig7.cs",
+              "RelativeToolTip": "_PortfolioCore\\Migrations\\20250503184001_mig7.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:11:47.928Z",
+              "WhenOpened": "2025-05-03T18:40:01.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ExperienceController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\ExperienceController.cs",
-              "RelativeDocumentMoniker": "_PortfolioCore\\Controllers\\ExperienceController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\ExperienceController.cs",
-              "RelativeToolTip": "_PortfolioCore\\Controllers\\ExperienceController.cs",
+              "DocumentIndex": 10,
+              "Title": "UpdateAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\About\\UpdateAbout.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\About\\UpdateAbout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\About\\UpdateAbout.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\About\\UpdateAbout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T18:05:16.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateExperience.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Experience\\UpdateExperience.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Experience\\UpdateExperience.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Experience\\UpdateExperience.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Experience\\UpdateExperience.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:11:38.766Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T13:22:47.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Experience.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Entities\\Experience.cs",
-              "RelativeDocumentMoniker": "_PortfolioCore\\Entities\\Experience.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Entities\\Experience.cs",
-              "RelativeToolTip": "_PortfolioCore\\Entities\\Experience.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:11:33.084Z",
-              "EditorCaption": ""
+              "DocumentIndex": 15,
+              "Title": "CreatePortfolio.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Portfolio\\CreatePortfolio.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Portfolio\\CreatePortfolio.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Portfolio\\CreatePortfolio.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Portfolio\\CreatePortfolio.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T13:22:37.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
+              "Title": "CreateExperience.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Experience\\CreateExperience.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Experience\\CreateExperience.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Experience\\CreateExperience.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Experience\\CreateExperience.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T11:03:39.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AboutList.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\About\\AboutList.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\About\\AboutList.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\About\\AboutList.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\About\\AboutList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T10:45:24.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Shared\\Components\\_DefaultHeadComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Shared\\Components\\_DefaultHeadComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Shared\\Components\\_DefaultHeadComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Shared\\Components\\_DefaultHeadComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T08:30:31.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Shared\\Components\\_DefaultFeatureComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Shared\\Components\\_DefaultFeatureComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Shared\\Components\\_DefaultFeatureComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Shared\\Components\\_DefaultFeatureComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T08:30:27.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Shared\\Components\\_DefaultExperienceComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Shared\\Components\\_DefaultExperienceComponentPartial\\Default.cshtml",
@@ -125,57 +283,7 @@
               "RelativeToolTip": "_PortfolioCore\\Views\\Shared\\Components\\_DefaultExperienceComponentPartial\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:05:43.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SocialMediaController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\SocialMediaController.cs",
-              "RelativeDocumentMoniker": "_PortfolioCore\\Controllers\\SocialMediaController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\SocialMediaController.cs",
-              "RelativeToolTip": "_PortfolioCore\\Controllers\\SocialMediaController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T11:52:28.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PortfolioContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Context\\PortfolioContext.cs",
-              "RelativeDocumentMoniker": "_PortfolioCore\\Context\\PortfolioContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Context\\PortfolioContext.cs",
-              "RelativeToolTip": "_PortfolioCore\\Context\\PortfolioContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T11:49:26.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "_PortfolioCore\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T11:44:30.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\AdminLayout\\Index.cshtml",
-              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\AdminLayout\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\AdminLayout\\Index.cshtml",
-              "RelativeToolTip": "_PortfolioCore\\Views\\AdminLayout\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T11:44:25.109Z"
+              "WhenOpened": "2025-05-03T08:30:23.439Z"
             },
             {
               "$type": "Document",
@@ -187,68 +295,205 @@
               "RelativeToolTip": "_PortfolioCore\\Views\\Shared\\Components\\_DefaultCategoryComponentPartial\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T11:44:18.685Z"
+              "WhenOpened": "2025-05-03T08:30:19.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Shared\\Components\\_DefaultAboutComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Shared\\Components\\_DefaultAboutComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Shared\\Components\\_DefaultAboutComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Shared\\Components\\_DefaultAboutComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T08:26:55.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_DefaultAboutComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\ViewComponents\\_DefaultAboutComponentPartial.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\ViewComponents\\_DefaultAboutComponentPartial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\ViewComponents\\_DefaultAboutComponentPartial.cs",
+              "RelativeToolTip": "_PortfolioCore\\ViewComponents\\_DefaultAboutComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:25:31.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SkillController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\SkillController.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Controllers\\SkillController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\SkillController.cs",
+              "RelativeToolTip": "_PortfolioCore\\Controllers\\SkillController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:53:42.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EducationController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\EducationController.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Controllers\\EducationController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\EducationController.cs",
+              "RelativeToolTip": "_PortfolioCore\\Controllers\\EducationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:53:39.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminLayoutController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\AdminLayoutController.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Controllers\\AdminLayoutController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\AdminLayoutController.cs",
+              "RelativeToolTip": "_PortfolioCore\\Controllers\\AdminLayoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:53:32.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "_PortfolioCore\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:44:19.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250502054018_mig6.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Migrations\\20250502054018_mig6.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Migrations\\20250502054018_mig6.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Migrations\\20250502054018_mig6.cs",
+              "RelativeToolTip": "_PortfolioCore\\Migrations\\20250502054018_mig6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:40:18.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PortfolioContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Context\\PortfolioContext.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Context\\PortfolioContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Context\\PortfolioContext.cs",
+              "RelativeToolTip": "_PortfolioCore\\Context\\PortfolioContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:38:54.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T05:25:50.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Entities\\Experience.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Entities\\Experience.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Entities\\Experience.cs",
+              "RelativeToolTip": "_PortfolioCore\\Entities\\Experience.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:21:14.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Entities\\Message.cs",
+              "RelativeToolTip": "_PortfolioCore\\Entities\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:21:10.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Testimonial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Entities\\Testimonial.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Entities\\Testimonial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Entities\\Testimonial.cs",
+              "RelativeToolTip": "_PortfolioCore\\Entities\\Testimonial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:21:08.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "SocialMedia.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Entities\\SocialMedia.cs",
               "RelativeDocumentMoniker": "_PortfolioCore\\Entities\\SocialMedia.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Entities\\SocialMedia.cs",
               "RelativeToolTip": "_PortfolioCore\\Entities\\SocialMedia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T10:09:51.937Z"
+              "WhenOpened": "2025-05-02T05:21:05.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Shared\\Components\\_DefaultSocialMediaComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Shared\\Components\\_DefaultSocialMediaComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Shared\\Components\\_DefaultSocialMediaComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "_PortfolioCore\\Views\\Shared\\Components\\_DefaultSocialMediaComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T10:08:30.475Z"
+              "DocumentIndex": 28,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Entities\\Category.cs",
+              "RelativeToolTip": "_PortfolioCore\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:21:02.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateSocialMedia.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\SocialMedia\\CreateSocialMedia.cshtml",
-              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\SocialMedia\\CreateSocialMedia.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\SocialMedia\\CreateSocialMedia.cshtml",
-              "RelativeToolTip": "_PortfolioCore\\Views\\SocialMedia\\CreateSocialMedia.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T10:08:10.279Z",
+              "DocumentIndex": 21,
+              "Title": "SocialMediaController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\SocialMediaController.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Controllers\\SocialMediaController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\SocialMediaController.cs",
+              "RelativeToolTip": "_PortfolioCore\\Controllers\\SocialMediaController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:20:57.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Entities\\About.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Entities\\About.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Entities\\About.cs",
+              "RelativeToolTip": "_PortfolioCore\\Entities\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:37:01.689Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UpdateSocialMedia.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\SocialMedia\\UpdateSocialMedia.cshtml",
-              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\SocialMedia\\UpdateSocialMedia.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\SocialMedia\\UpdateSocialMedia.cshtml",
-              "RelativeToolTip": "_PortfolioCore\\Views\\SocialMedia\\UpdateSocialMedia.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T10:08:07.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SocialMediaList.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\SocialMedia\\SocialMediaList.cshtml",
-              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\SocialMedia\\SocialMediaList.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\SocialMedia\\SocialMediaList.cshtml",
-              "RelativeToolTip": "_PortfolioCore\\Views\\SocialMedia\\SocialMediaList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T10:08:05.488Z"
             }
           ]
         }

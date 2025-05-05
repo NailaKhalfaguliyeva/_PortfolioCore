@@ -18,6 +18,7 @@ namespace _PortfolioCore.Context
         public DbSet<Category> Categories { get; set; }
         public DbSet<Portfolio> Portfolios { get; set; }
         public DbSet<SocialMedia> SocialMedias { get; set; }
+        public DbSet<About> Abouts { get; set; }
 
     }
 }

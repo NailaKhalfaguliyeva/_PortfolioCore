@@ -445,6 +445,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\images\\2024-03-25 at 6.16.39 PM.jpeg",
+      "PackagePath": "staticwebassets\\images\\2024-03-25 at 6.16.39 PM.jpeg"
+    },
+    {
       "Id": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
