@@ -1,0 +1,33 @@
+﻿@model List<Education>
+@{
+    ViewData["Title"] = "EducationList";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h3>My Education Life</h3>
+
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Title</th>
+        <th>Subtitle</th>
+        <th>Date</th>
+        <th>Description</th>
+        <th>Update</th>
+        <th>Delete</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.EducationId</td>
+            <td>@item.Title</td>
+            <td>@item.SubTitle</td>
+            <td>@item.DateInfo</td>
+            <td>@item.Description</td>
+
+            <td><a href="/Education/UpdateEducation/@item.EducationId" class=" btn btn-outline-success">Update</a></td>
+            <td><a href="/Education/DeleteEducation/@item.EducationId" class=" btn btn-outline-danger">Delete</a></td>
+        </tr>
+    }
+</table>
+<a href="/Education/CreateEducation/" class="btn btn-outline-primary col-md-12">New Education Entry</a>
