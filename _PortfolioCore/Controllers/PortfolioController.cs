@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace _PortfolioCore.Controllers
 {
     public class PortfolioController : Controller
@@ -14,6 +15,8 @@ namespace _PortfolioCore.Controllers
             var values = context.Portfolios.Include(x => x.Category).ToList();
             return View(values);
         }
+
+
 
         [HttpGet]
         public IActionResult CreatePortfolio()
@@ -27,6 +30,31 @@ namespace _PortfolioCore.Controllers
         public IActionResult CreatePortfolio(Portfolio portfolio)
         {
             context.Portfolios.Add(portfolio);
+            context.SaveChanges();
+            return RedirectToAction("PortfolioList");
+        }
+
+        [HttpGet]
+        public IActionResult UpdatePortfolio(int id)
+        {
+            var value = context.Portfolios.Find(id);
+            var values = new SelectList(context.Categories.ToList(), "CategoryId", "CategoryName");
+            ViewBag.v = values;
+            return View(value);
+        }
+
+        [HttpPost]
+        public IActionResult UpdatePortfolio(Portfolio portfolio)
+        {
+            context.Portfolios.Update(portfolio);
+            context.SaveChanges();
+            return RedirectToAction("PortfolioList");
+        }
+
+        public IActionResult DeletePortfolio(int id)
+        {
+            var value = context.Portfolios.Find(id);
+            context.Portfolios.Remove(value);
             context.SaveChanges();
             return RedirectToAction("PortfolioList");
         }

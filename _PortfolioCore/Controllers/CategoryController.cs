@@ -1,6 +1,7 @@
 ﻿using _PortfolioCore.Context;
 using _PortfolioCore.Entities;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace _PortfolioCore.Controllers
 {

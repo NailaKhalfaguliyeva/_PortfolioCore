@@ -8,8 +8,8 @@ namespace _PortfolioCore.ViewComponents
         PortfolioContext context = new PortfolioContext();
         public IViewComponentResult Invoke()
         {
-            var values = context.Categories.ToList();
-            return View(values);
+            var categories = context.Categories.ToList();
+            return View(categories);
         }
     }
 }
