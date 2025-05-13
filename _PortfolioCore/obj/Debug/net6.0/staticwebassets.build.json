@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oTEeM7pFuQXiKwCmtLvfqpiR4YLkP/gSBPFEwdUtKZI=",
+  "Hash": "fum7HIwaARku0D4HIqt9/WTOW93MeVy2mw1YYWhPCoY=",
   "Source": "_PortfolioCore",
   "BasePath": "_content/_PortfolioCore",
   "Mode": "Default",
@@ -120,6 +120,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\2024-03-25 at 6.16.39 PM.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\images\\images (1).jpg",
+      "SourceId": "_PortfolioCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\",
+      "BasePath": "_content/_PortfolioCore",
+      "RelativePath": "images/images (1)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "znhch5nq3d",
+      "Integrity": "kUa6XLP+X9X0G1pKx4LkouMMoBUHeB38ZswX/QCRz8s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images (1).jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\images\\yazilim-sirketi1713458529.jpg",
+      "SourceId": "_PortfolioCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\",
+      "BasePath": "_content/_PortfolioCore",
+      "RelativePath": "images/yazilim-sirketi1713458529#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kqqt2piofd",
+      "Integrity": "nJIa6yzbsLFTqiBDMKs/M8gKz/0Cm7peBBWnGBFscVc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\yazilim-sirketi1713458529.jpg"
     },
     {
       "Identity": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\js\\site.js",
@@ -6158,6 +6200,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-FsKZXjIXlvgk2hE9BXoNaq+rwXqZM5javj8TxCpUsFA="
+        }
+      ]
+    },
+    {
+      "Route": "images/images (1).jpg",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\images\\images (1).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kUa6XLP+X9X0G1pKx4LkouMMoBUHeB38ZswX/QCRz8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:23:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kUa6XLP+X9X0G1pKx4LkouMMoBUHeB38ZswX/QCRz8s="
+        }
+      ]
+    },
+    {
+      "Route": "images/images (1).znhch5nq3d.jpg",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\images\\images (1).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kUa6XLP+X9X0G1pKx4LkouMMoBUHeB38ZswX/QCRz8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:23:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "znhch5nq3d"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images (1).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kUa6XLP+X9X0G1pKx4LkouMMoBUHeB38ZswX/QCRz8s="
+        }
+      ]
+    },
+    {
+      "Route": "images/yazilim-sirketi1713458529.jpg",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\images\\yazilim-sirketi1713458529.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nJIa6yzbsLFTqiBDMKs/M8gKz/0Cm7peBBWnGBFscVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:30:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nJIa6yzbsLFTqiBDMKs/M8gKz/0Cm7peBBWnGBFscVc="
+        }
+      ]
+    },
+    {
+      "Route": "images/yazilim-sirketi1713458529.kqqt2piofd.jpg",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\images\\yazilim-sirketi1713458529.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nJIa6yzbsLFTqiBDMKs/M8gKz/0Cm7peBBWnGBFscVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:30:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kqqt2piofd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/yazilim-sirketi1713458529.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nJIa6yzbsLFTqiBDMKs/M8gKz/0Cm7peBBWnGBFscVc="
         }
       ]
     },

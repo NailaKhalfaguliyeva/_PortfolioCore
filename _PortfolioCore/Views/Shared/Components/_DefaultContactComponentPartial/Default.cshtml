@@ -1,0 +1,53 @@
+﻿@model List<Contact>
+
+<section id="contact" class="contact section">
+    
+    <div class="container section-title" data-aos="fade-up">
+        <h2>Contact Information</h2>
+        <p>You can reach me from the contact information below or send me a message.</p>
+    </div>
+
+    <div class="container" data-aos="fade" data-aos-delay="100">
+
+        <div class="row gy-4">    
+
+
+            <div class="col-lg-4">
+
+                @foreach (var item in Model)
+                {
+                    <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+                        <i class="bi bi-geo-alt flex-shrink-0"></i>
+                        <div>
+                            <h3>Address</h3>
+                            <p>@item.Address</p>
+                        </div>
+                    </div>
+
+                    <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+                        <i class="bi bi-telephone flex-shrink-0"></i>
+                        <div>
+                            <h3>Phone Number</h3>
+                            <p>@item.PhoneNumber</p>
+                        </div>
+                    </div>
+
+                    <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+                        <i class="bi bi-envelope flex-shrink-0"></i>
+                        <div>
+                            <h3>Email</h3>
+                            <p>@item.Email</p>
+                        </div>
+                    </div>
+                }
+            </div>
+            
+
+            @await Component.InvokeAsync("_DefaultLocationComponentPartial")
+            </div>
+
+        </div>
+
+
+
+</section>

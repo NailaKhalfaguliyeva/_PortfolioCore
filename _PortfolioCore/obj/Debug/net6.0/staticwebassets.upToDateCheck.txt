@@ -1,6 +1,8 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\2024-03-25 at 6.16.39 PM.jpeg
+wwwroot\images\images (1).jpg
+wwwroot\images\yazilim-sirketi1713458529.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
