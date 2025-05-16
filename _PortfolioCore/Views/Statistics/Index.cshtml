@@ -6,9 +6,24 @@
 
 <h2>@ViewBag.v0</h2>
 
-<div class="alert alert-primary">Total Number of Skills: @ViewBag.v1</div>
-<div class="alert alert-info">Total Skill Points: @ViewBag.v2</div>
-<div class="alert alert-success">Number of Skills with Values ​​Greater than 70: @ViewBag.v3</div>
-<div class="alert alert-warning">Average Value of Skills: @ViewBag.v4</div>
-<div class="alert alert-danger">Number of Experiences: @ViewBag.v5</div>
-<div class="alert alert-dark">Subheading Developer Count: @ViewBag.v6</div>
+<table class="table table-bordered table-striped" style="width: 50%; margin-top: 20px;">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Statistic</th>
+            <th>Value</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>1</td><td>Total Skills</td><td>@ViewBag.v1</td></tr>
+        <tr><td>2</td><td>Sum of Skill Values</td><td>@ViewBag.v2</td></tr>
+        <tr><td>3</td><td>Skills with Value ≥ 70</td><td>@ViewBag.v3</td></tr>
+        <tr><td>4</td><td>Average Skill Value</td><td>@String.Format("{0:0.00}", ViewBag.v4)</td></tr>
+        <tr><td>5</td><td>Total Experiences</td><td>@ViewBag.v5</td></tr>
+        <tr><td>6</td><td>Developer Experiences</td><td>@ViewBag.v6</td></tr>
+        <tr><td>7</td><td>Unread Messages</td><td>@ViewBag.v7</td></tr>
+        <tr><td>8</td><td>Total Services</td><td>@ViewBag.v8</td></tr>
+        <tr><td>9</td><td>Total Testimonials</td><td>@ViewBag.v9</td></tr>
+        <tr><td>10</td><td>Total Categories</td><td>@ViewBag.v10</td></tr>
+    </tbody>
+</table>

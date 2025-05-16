@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\statistics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\statistics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\portfolio\\portfoliolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\portfolio\\portfoliolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\portfolio\\createportfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\portfolio\\createportfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\category\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\category\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\service\\servicelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\service\\servicelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\service\\createservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\service\\createservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\message\\messagelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,6 +37,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\message\\sendmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\message\\sendmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\experience\\experiencelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\experience\\experiencelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\experience\\createexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\experience\\createexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\education\\createeducation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\education\\createeducation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\contact\\createcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\contact\\createcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\contact\\contactlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\contact\\contactlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\category\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|solutionrelative:_portfoliocore\\views\\category\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E1D9AFD-8A37-4482-BD20-A28C26611BAC}|_PortfolioCore\\_PortfolioCore.csproj|c:\\users\\asus\\source\\repos\\_portfoliocore\\_portfoliocore\\views\\shared\\components\\_defaultmessagecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,19 +102,189 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Statistics\\Index.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Statistics\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Statistics\\Index.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Statistics\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:17:00.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Controllers\\StatisticsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "_PortfolioCore\\Controllers\\StatisticsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:01:50.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryList.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Category\\CategoryList.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Category\\CategoryList.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Category\\CategoryList.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Category\\CategoryList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:00:06.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceList.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Service\\ServiceList.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Service\\ServiceList.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Service\\ServiceList.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Service\\ServiceList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T06:58:12.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateService.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Service\\CreateService.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Service\\CreateService.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Service\\CreateService.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Service\\CreateService.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T06:58:08.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PortfolioList.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Portfolio\\PortfolioList.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Portfolio\\PortfolioList.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Portfolio\\PortfolioList.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Portfolio\\PortfolioList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T06:53:50.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreatePortfolio.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Portfolio\\CreatePortfolio.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Portfolio\\CreatePortfolio.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Portfolio\\CreatePortfolio.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Portfolio\\CreatePortfolio.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T06:53:39.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExperienceList.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Experience\\ExperienceList.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Experience\\ExperienceList.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Experience\\ExperienceList.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Experience\\ExperienceList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T06:41:52.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateExperience.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Experience\\CreateExperience.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Experience\\CreateExperience.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Experience\\CreateExperience.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Experience\\CreateExperience.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T06:41:48.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateEducation.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Education\\CreateEducation.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Education\\CreateEducation.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Education\\CreateEducation.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Education\\CreateEducation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T06:38:39.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Contact\\CreateContact.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Contact\\CreateContact.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Contact\\CreateContact.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Contact\\CreateContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T06:36:23.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactList.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Contact\\ContactList.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Contact\\ContactList.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Contact\\ContactList.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Contact\\ContactList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T06:36:22.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Category\\CreateCategory.cshtml",
+              "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Category\\CreateCategory.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Category\\CreateCategory.cshtml",
+              "RelativeToolTip": "_PortfolioCore\\Views\\Category\\CreateCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T06:33:57.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MessageList.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Message\\MessageList.cshtml",
               "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Message\\MessageList.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Message\\MessageList.cshtml",
               "RelativeToolTip": "_PortfolioCore\\Views\\Message\\MessageList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T04:21:17.352Z"
+              "WhenOpened": "2025-05-16T04:21:17.352Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "UpdateMessage.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Message\\UpdateMessage.cshtml",
               "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Message\\UpdateMessage.cshtml",
@@ -74,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "MessageDetail.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Message\\MessageDetail.cshtml",
               "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Message\\MessageDetail.cshtml",
@@ -86,20 +308,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Default\\Index.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "_PortfolioCore\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-16T04:19:28.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Shared\\Components\\_DefaultMessageComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Shared\\Components\\_DefaultMessageComponentPartial\\Default.cshtml",
@@ -111,19 +333,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "SendMessage.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Message\\SendMessage.cshtml",
               "RelativeDocumentMoniker": "_PortfolioCore\\Views\\Message\\SendMessage.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Views\\Message\\SendMessage.cshtml",
               "RelativeToolTip": "_PortfolioCore\\Views\\Message\\SendMessage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T04:07:37.299Z"
+              "WhenOpened": "2025-05-16T04:07:37.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "MessageController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\Controllers\\MessageController.cs",
               "RelativeDocumentMoniker": "_PortfolioCore\\Controllers\\MessageController.cs",
