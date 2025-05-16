@@ -1,0 +1,40 @@
+﻿@model List<Message>
+@{
+    ViewData["Title"] = "MessageList";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h2>Message List</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name Surname</th>
+            <th>Email</th>
+            <th>Subject</th>
+            <th>Send Date</th>
+            <th>Is Read?</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MessageId</td>
+                <td>@item.NameSurname</td>
+                <td>@item.Email</td>
+                <td>@item.Subject</td>
+                <td>@item.SendDate.ToString("dd.MM.yyyy HH:mm")</td>
+                <td>@(item.IsRead ? "Yes" : "No")</td>
+                <td>
+                    <a asp-action="MessageDetail" asp-route-id="@item.MessageId" class="btn btn-info btn-sm">Details</a>
+                    <a asp-action="UpdateMessage" asp-route-id="@item.MessageId" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="DeleteMessage" asp-route-id="@item.MessageId" class="btn btn-danger btn-sm"
+                       onclick="return confirm('Are you sure you want to delete this message?');">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
