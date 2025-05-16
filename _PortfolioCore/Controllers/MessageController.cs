@@ -30,7 +30,7 @@ namespace _PortfolioCore.Controllers
             context.Messages.Add(message);
             context.SaveChanges();
 
-            TempData["Message"] = "Your message has been sent successfully.!";
+            TempData["Success"] = "Your message has been sent successfully.!";
             return RedirectToAction("SendMessage");
         }
 

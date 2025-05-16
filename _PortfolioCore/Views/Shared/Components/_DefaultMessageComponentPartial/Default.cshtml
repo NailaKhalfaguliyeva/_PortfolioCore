@@ -19,12 +19,23 @@
                 <textarea class="form-control" asp-for="MessageDetail" rows="6" placeholder="Your Message" required=""></textarea>
             </div>
 
-            
 
-                <button type="submit">Send Message</button>
-            </div>
-            </form>
+
+            <button type="submit">Send Message</button>
         </div>
-    
+    </form>
+</div>
 
-    
+@if (TempData["Success"] != null)
+{
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+        Swal.fire({
+            title: 'Good job!',
+            text: @* 'Your message was sent successfully!', *@'@TempData["Success"]',
+            icon: 'success',
+            showConfirmButton: true
+        });
+    </script>
+}
+
