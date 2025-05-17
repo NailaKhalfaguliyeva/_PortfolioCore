@@ -36,6 +36,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FsKZXjIXlvgk2hE9BXoNaq\u002BrwXqZM5javj8TxCpUsFA="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1149434"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022FsKZXjIXlvgk2hE9BXoNaq\u002BrwXqZM5javj8TxCpUsFA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Mar 2024 14:39:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/_PortfolioCore/images/food.hcb29o04jh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\food.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hcb29o04jh"},{"Name":"integrity","Value":"sha256-8a6nisDiV6AYoOs5berVEFG\u002BwEHnBGyiET8L1qdtCbs="},{"Name":"label","Value":"_content/_PortfolioCore/images/food.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"395612"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228a6nisDiV6AYoOs5berVEFG\u002BwEHnBGyiET8L1qdtCbs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 18:02:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/_PortfolioCore/images/food.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\food.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8a6nisDiV6AYoOs5berVEFG\u002BwEHnBGyiET8L1qdtCbs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"395612"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228a6nisDiV6AYoOs5berVEFG\u002BwEHnBGyiET8L1qdtCbs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 18:02:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/_PortfolioCore/images/images (1).jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\images (1).jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

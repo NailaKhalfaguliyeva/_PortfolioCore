@@ -9187,6 +9187,88 @@
       ]
     },
     {
+      "Route": "images/food.hcb29o04jh.png",
+      "AssetFile": "images/food.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8a6nisDiV6AYoOs5berVEFG+wEHnBGyiET8L1qdtCbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 18:02:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hcb29o04jh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8a6nisDiV6AYoOs5berVEFG+wEHnBGyiET8L1qdtCbs="
+        },
+        {
+          "Name": "label",
+          "Value": "images/food.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/food.png",
+      "AssetFile": "images/food.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8a6nisDiV6AYoOs5berVEFG+wEHnBGyiET8L1qdtCbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 18:02:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8a6nisDiV6AYoOs5berVEFG+wEHnBGyiET8L1qdtCbs="
+        }
+      ]
+    },
+    {
       "Route": "images/images (1).jpg",
       "AssetFile": "images/images (1).jpg",
       "Selectors": [],

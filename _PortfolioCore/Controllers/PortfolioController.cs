@@ -16,6 +16,11 @@ namespace _PortfolioCore.Controllers
             return View(values);
         }
 
+        public IActionResult UserProfile()
+        {
+            var values = context.Portfolios.Include(x => x.Category).ToList();
+            return View(values);
+        }
 
 
         [HttpGet]
@@ -37,7 +42,7 @@ namespace _PortfolioCore.Controllers
         [HttpGet]
         public IActionResult UpdatePortfolio(int id)
         {
-            var value = context.Portfolios.Find(id);
+            var value = context.Portfolios.Include(x => x.Category).FirstOrDefault(x => x.PortfolioId == id);
             var values = new SelectList(context.Categories.ToList(), "CategoryId", "CategoryName");
             ViewBag.v = values;
             return View(value);
