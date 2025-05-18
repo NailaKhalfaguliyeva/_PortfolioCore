@@ -14,14 +14,19 @@
     <p><strong>Sent On:</strong> @Model.SendDate.ToString("dd.MM.yyyy HH:mm")</p>
     <p>
         <strong>Read Status:</strong>
-        @if (Model.IsRead)
-        {
-            <span class="badge bg-success">Read</span>
-        }
-        else
-        {
-            <span class="badge bg-warning text-dark">Unread</span>
-        }
+
+        <form asp-action="ChangeReadStatus" method="post" style="display:inline;">
+            <input type="hidden" name="id" value="@Model.MessageId" />
+            @if (Model.IsRead)
+            {
+                <button type="submit" class="btn btn-warning">Unread</button>
+            }
+            else
+            {
+                <button type="submit" class="btn btn-success">Read</button>
+            }
+        </form>
+
     </p>
 </div>
 

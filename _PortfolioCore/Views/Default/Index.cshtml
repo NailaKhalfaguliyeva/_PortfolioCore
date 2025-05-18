@@ -15,60 +15,10 @@
     <main class="main">
 
         @await Component.InvokeAsync("_DefaultFeatureComponentPartial")
-
-
         @await Component.InvokeAsync("_DefaultAboutComponentPartial")
-        <!-- Stats Section -->
-        <section id="stats" class="stats section">
-
-            <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-                <div class="row gy-4">
-
-                    <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
-                        <i class="bi bi-emoji-smile"></i>
-                        <div class="stats-item">
-                            <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                            <p>Happy Clients</p>
-                        </div>
-                    </div><!-- End Stats Item -->
-
-                    <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
-                        <i class="bi bi-journal-richtext"></i>
-                        <div class="stats-item">
-                            <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-                            <p>Projects</p>
-                        </div>
-                    </div><!-- End Stats Item -->
-
-                    <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
-                        <i class="bi bi-headset"></i>
-                        <div class="stats-item">
-                            <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-                            <p>Hours Of Support</p>
-                        </div>
-                    </div><!-- End Stats Item -->
-
-                    <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
-                        <i class="bi bi-people"></i>
-                        <div class="stats-item">
-                            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-                            <p>Hard Workers</p>
-                        </div>
-                    </div><!-- End Stats Item -->
-
-                </div>
-
-            </div>
-
-        </section><!-- /Stats Section -->
-        <!-- Skills Section -->
         @await Component.InvokeAsync("_DefaultSkillComponentPartial")
-        <!-- Resume Section -->
+       
         <section id="resume" class="resume section">
-
-            <!-- Section Title -->
-            <!-- End Section Title -->
 
             <div class="container">
 
@@ -82,53 +32,12 @@
 
             </div>
 
-        </section><!-- /Resume Section -->
-        <!-- Portfolio Section -->
+        </section>
         @await Component.InvokeAsync("_DefaultPortfolioComponentPartial")
-
-        <!-- /Portfolio Section -->
-        <!-- Services Section -->
         @await Component.InvokeAsync("_DefaultServiceComponentPartial")
-        <!-- Testimonials Section -->
         @await Component.InvokeAsync("_DefaultTestimonialComponentPartial")
-
-
-        <!-- Contact Section -->
         @await Component.InvokeAsync("_DefaultContactComponentPartial")
-
-
-
-
-        <!-- /Contact Section -->
-
-    <footer id="footer" class="footer position-relative light-background">
-        <div class="container">
-            <h3 class="sitename">Brandon Johnson</h3>
-            <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
-            <div class="social-links d-flex justify-content-center">
-                <a href=""><i class="bi bi-twitter-x"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-skype"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
-            </div>
-            <div class="container">
-                <div class="copyright">
-                    <span>Copyright</span> <strong class="px-1 sitename">Alex Smith</strong> <span>All Rights Reserved</span>
-                </div>
-                <div class="credits">
-                    <!-- All the links in the footer should remain intact. -->
-                    <!-- You can delete the links only if you've purchased the pro version. -->
-                    <!-- Licensing information: https://bootstrapmade.com/license/ -->
-                    <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-                    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> Distribuited by <a href="https://themewagon.com">ThemeWagon</a>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <!-- Scroll Top -->
-    @await Component.InvokeAsync("_DefaultScriptComponentPartial")
+        @await Component.InvokeAsync("_DefaultScriptComponentPartial")
 
 </body>
 

@@ -66,5 +66,20 @@ namespace _PortfolioCore.Controllers
             context.SaveChanges();
             return RedirectToAction("MessageList");
         }
+
+
+
+        [HttpPost]
+        public IActionResult ChangeReadStatus(int id)
+        {
+            var message = context.Messages.Find(id);
+            if (message != null)
+            {
+                message.IsRead = !message.IsRead;
+                context.SaveChanges();
+            }
+            return RedirectToAction("MessageDetail", new { id = id });
+        }
+
     }
 }
