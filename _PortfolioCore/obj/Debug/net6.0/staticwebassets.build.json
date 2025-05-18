@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y6yUCAVmUNwk1wMMXLSi5Bm0ysB/3HZ962Q53I0+nQE=",
+  "Hash": "isQq4NwzN+0OjhEswSDYcy2VwmkvXvaiP6JRX4vePLA=",
   "Source": "_PortfolioCore",
   "BasePath": "_content/_PortfolioCore",
   "Mode": "Default",
@@ -5811,6 +5811,237 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\sidebar-03\\scss\\style.scss"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\css\\font-awesome.css",
+      "SourceId": "_PortfolioCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\",
+      "BasePath": "_content/_PortfolioCore",
+      "RelativePath": "weberror/css/font-awesome#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qj35fca2th",
+      "Integrity": "NuCn4IvuZXdBaFKJOAcsU2Q3ZpwbdFisd5dux4jkQ5w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\weberror\\css\\font-awesome.css"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\css\\style.css",
+      "SourceId": "_PortfolioCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\",
+      "BasePath": "_content/_PortfolioCore",
+      "RelativePath": "weberror/css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z50nhv21pu",
+      "Integrity": "l03LmRzuJ6tMKlwcHGrhWiPxF0DG2Gj8s1/hFXbhTGA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\weberror\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\FontAwesome.otf",
+      "SourceId": "_PortfolioCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\",
+      "BasePath": "_content/_PortfolioCore",
+      "RelativePath": "weberror/fonts/FontAwesome#[.{fingerprint}]?.otf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sgabxu717i",
+      "Integrity": "RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\weberror\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\fontawesome-webfont.eot",
+      "SourceId": "_PortfolioCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\",
+      "BasePath": "_content/_PortfolioCore",
+      "RelativePath": "weberror/fonts/fontawesome-webfont#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pz0qgnv39v",
+      "Integrity": "e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\weberror\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\fontawesome-webfont.svg",
+      "SourceId": "_PortfolioCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\",
+      "BasePath": "_content/_PortfolioCore",
+      "RelativePath": "weberror/fonts/fontawesome-webfont#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dosqy3kf6t",
+      "Integrity": "rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\weberror\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\fontawesome-webfont.ttf",
+      "SourceId": "_PortfolioCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\",
+      "BasePath": "_content/_PortfolioCore",
+      "RelativePath": "weberror/fonts/fontawesome-webfont#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yex6mt8az7",
+      "Integrity": "qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\weberror\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\fontawesome-webfont.woff",
+      "SourceId": "_PortfolioCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\",
+      "BasePath": "_content/_PortfolioCore",
+      "RelativePath": "weberror/fonts/fontawesome-webfont#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eyrbpue749",
+      "Integrity": "ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\weberror\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\fontawesome-webfont.woff2",
+      "SourceId": "_PortfolioCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\",
+      "BasePath": "_content/_PortfolioCore",
+      "RelativePath": "weberror/fonts/fontawesome-webfont#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2hr3gl3r5x",
+      "Integrity": "Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\weberror\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\images\\banner1.jpg",
+      "SourceId": "_PortfolioCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\",
+      "BasePath": "_content/_PortfolioCore",
+      "RelativePath": "weberror/images/banner1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dwue7d9a9o",
+      "Integrity": "7V5XsWeUJoRQAV7d9XTJpQHv76OelZVxQx4itFgHhpY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\weberror\\images\\banner1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\index.html",
+      "SourceId": "_PortfolioCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\",
+      "BasePath": "_content/_PortfolioCore",
+      "RelativePath": "weberror/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "97ch3o3u6l",
+      "Integrity": "+7QEKIJ6R92npM/qWNWjTyi0FKDQnczvJqKbkiwrVJE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\weberror\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\w3layouts-license.txt",
+      "SourceId": "_PortfolioCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\",
+      "BasePath": "_content/_PortfolioCore",
+      "RelativePath": "weberror/w3layouts-license#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "afsz7l0ory",
+      "Integrity": "plUVNYI2aF9eW0VkUyo6uMiwMD5fsCMjIVg1LHqcFyE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\weberror\\w3layouts-license.txt"
     }
   ],
   "Endpoints": [
@@ -5837,7 +6068,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 13:50:48 GMT"
+          "Value": "Sun, 18 May 2025 21:15:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5874,7 +6105,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 13:50:48 GMT"
+          "Value": "Sun, 18 May 2025 21:15:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5919,7 +6150,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 13:50:48 GMT"
+          "Value": "Sun, 18 May 2025 21:15:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5964,7 +6195,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 13:50:48 GMT"
+          "Value": "Sun, 18 May 2025 21:15:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28443,6 +28674,908 @@
         {
           "Name": "integrity",
           "Value": "sha256-ULzKy+HgxYWrJXtDVzow5snNB9Ip9NFcLGMbmifkrRM="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/css/font-awesome.css",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\css\\font-awesome.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NuCn4IvuZXdBaFKJOAcsU2Q3ZpwbdFisd5dux4jkQ5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NuCn4IvuZXdBaFKJOAcsU2Q3ZpwbdFisd5dux4jkQ5w="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/css/font-awesome.qj35fca2th.css",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\css\\font-awesome.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NuCn4IvuZXdBaFKJOAcsU2Q3ZpwbdFisd5dux4jkQ5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qj35fca2th"
+        },
+        {
+          "Name": "label",
+          "Value": "weberror/css/font-awesome.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NuCn4IvuZXdBaFKJOAcsU2Q3ZpwbdFisd5dux4jkQ5w="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/css/style.css",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l03LmRzuJ6tMKlwcHGrhWiPxF0DG2Gj8s1/hFXbhTGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l03LmRzuJ6tMKlwcHGrhWiPxF0DG2Gj8s1/hFXbhTGA="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/css/style.z50nhv21pu.css",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l03LmRzuJ6tMKlwcHGrhWiPxF0DG2Gj8s1/hFXbhTGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z50nhv21pu"
+        },
+        {
+          "Name": "label",
+          "Value": "weberror/css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l03LmRzuJ6tMKlwcHGrhWiPxF0DG2Gj8s1/hFXbhTGA="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/fonts/FontAwesome.otf",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\FontAwesome.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/fonts/FontAwesome.sgabxu717i.otf",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\FontAwesome.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sgabxu717i"
+        },
+        {
+          "Name": "label",
+          "Value": "weberror/fonts/FontAwesome.otf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/fonts/fontawesome-webfont.2hr3gl3r5x.woff2",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\fontawesome-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2hr3gl3r5x"
+        },
+        {
+          "Name": "label",
+          "Value": "weberror/fonts/fontawesome-webfont.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/fonts/fontawesome-webfont.dosqy3kf6t.svg",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\fontawesome-webfont.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "444379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dosqy3kf6t"
+        },
+        {
+          "Name": "label",
+          "Value": "weberror/fonts/fontawesome-webfont.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/fonts/fontawesome-webfont.eot",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\fontawesome-webfont.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/fonts/fontawesome-webfont.eyrbpue749.woff",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\fontawesome-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eyrbpue749"
+        },
+        {
+          "Name": "label",
+          "Value": "weberror/fonts/fontawesome-webfont.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/fonts/fontawesome-webfont.pz0qgnv39v.eot",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\fontawesome-webfont.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pz0qgnv39v"
+        },
+        {
+          "Name": "label",
+          "Value": "weberror/fonts/fontawesome-webfont.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/fonts/fontawesome-webfont.svg",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\fontawesome-webfont.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "444379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/fonts/fontawesome-webfont.ttf",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\fontawesome-webfont.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/fonts/fontawesome-webfont.woff",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\fontawesome-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/fonts/fontawesome-webfont.woff2",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\fontawesome-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/fonts/fontawesome-webfont.yex6mt8az7.ttf",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\fonts\\fontawesome-webfont.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yex6mt8az7"
+        },
+        {
+          "Name": "label",
+          "Value": "weberror/fonts/fontawesome-webfont.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/images/banner1.dwue7d9a9o.jpg",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\images\\banner1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "271641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7V5XsWeUJoRQAV7d9XTJpQHv76OelZVxQx4itFgHhpY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dwue7d9a9o"
+        },
+        {
+          "Name": "label",
+          "Value": "weberror/images/banner1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7V5XsWeUJoRQAV7d9XTJpQHv76OelZVxQx4itFgHhpY="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/images/banner1.jpg",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\images\\banner1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "271641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7V5XsWeUJoRQAV7d9XTJpQHv76OelZVxQx4itFgHhpY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7V5XsWeUJoRQAV7d9XTJpQHv76OelZVxQx4itFgHhpY="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/index.97ch3o3u6l.html",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+7QEKIJ6R92npM/qWNWjTyi0FKDQnczvJqKbkiwrVJE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "97ch3o3u6l"
+        },
+        {
+          "Name": "label",
+          "Value": "weberror/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+7QEKIJ6R92npM/qWNWjTyi0FKDQnczvJqKbkiwrVJE="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/index.html",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+7QEKIJ6R92npM/qWNWjTyi0FKDQnczvJqKbkiwrVJE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+7QEKIJ6R92npM/qWNWjTyi0FKDQnczvJqKbkiwrVJE="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/w3layouts-license.afsz7l0ory.txt",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\w3layouts-license.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"plUVNYI2aF9eW0VkUyo6uMiwMD5fsCMjIVg1LHqcFyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "afsz7l0ory"
+        },
+        {
+          "Name": "label",
+          "Value": "weberror/w3layouts-license.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-plUVNYI2aF9eW0VkUyo6uMiwMD5fsCMjIVg1LHqcFyE="
+        }
+      ]
+    },
+    {
+      "Route": "weberror/w3layouts-license.txt",
+      "AssetFile": "C:\\Users\\ASUS\\source\\repos\\_PortfolioCore\\_PortfolioCore\\wwwroot\\weberror\\w3layouts-license.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"plUVNYI2aF9eW0VkUyo6uMiwMD5fsCMjIVg1LHqcFyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 19:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-plUVNYI2aF9eW0VkUyo6uMiwMD5fsCMjIVg1LHqcFyE="
         }
       ]
     }

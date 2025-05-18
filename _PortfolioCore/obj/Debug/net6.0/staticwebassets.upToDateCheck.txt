@@ -272,3 +272,14 @@ wwwroot\sidebar-03\scss\bootstrap\utilities\_text.scss
 wwwroot\sidebar-03\scss\bootstrap\utilities\_visibility.scss
 wwwroot\sidebar-03\scss\bootstrap\vendor\_rfs.scss
 wwwroot\sidebar-03\scss\style.scss
+wwwroot\weberror\css\font-awesome.css
+wwwroot\weberror\css\style.css
+wwwroot\weberror\fonts\FontAwesome.otf
+wwwroot\weberror\fonts\fontawesome-webfont.eot
+wwwroot\weberror\fonts\fontawesome-webfont.svg
+wwwroot\weberror\fonts\fontawesome-webfont.ttf
+wwwroot\weberror\fonts\fontawesome-webfont.woff
+wwwroot\weberror\fonts\fontawesome-webfont.woff2
+wwwroot\weberror\images\banner1.jpg
+wwwroot\weberror\index.html
+wwwroot\weberror\w3layouts-license.txt
